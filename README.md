@@ -1,6 +1,8 @@
 # Web-Design-Challenge
 HTML and CSS challenge
-Background
+
+#Background
+
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
 
@@ -26,12 +28,13 @@ Deploy to GitHub pages.
 
 
 
-Latitude - Latitude Analysis Dashboard with Attitude
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
+#Latitude - Latitude Analysis Dashboard with Attitude
+
+For this project we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-Website Requirements
-For reference, see the "Screenshots" section below.
+#Website Requirements
+
 The website must consist of 7 pages total, including:
 
 A landing page containing:
@@ -80,7 +83,7 @@ Is responsive (using media queries). The nav must have similar behavior as the s
 Finally, the website must be deployed to GitHub pages.
 When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
 
-Considerations
+#Considerations
 
 You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder.
 You must use bootstrap. This includes using the bootstrap navbar component for the header on every page, the bootstrap table component for the data page, and the bootstrap grid for responsiveness on the comparison page.
@@ -90,7 +93,7 @@ Be sure your website works at all window widths/sizes.
 Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
 
-Bonuses
+#Bonuses
 
 Use a different dataset! The requirements above still hold, but make it your own.
 Use a bootstrap theme to customize your website. You may use a tool like Bootswatch. Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
