@@ -121,6 +121,8 @@ footer{
   padding-top: 20px; 
 }
 
+
+
 @media(max-width: 992px){
 .navbar-expand-lg{
   background-color: darkcyan;
