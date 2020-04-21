@@ -1,4 +1,7 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
+
+# Final Website
+https://vijay-mygit.github.io/Web-Design-Challenge/
 
 ## Background
 
@@ -123,6 +126,3 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
