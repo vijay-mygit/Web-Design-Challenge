@@ -1,6 +1,6 @@
 # Web Design - Web Visualization Dashboard (Latitude)
 
-# Final Website
+## Final Website
 https://vijay-mygit.github.io/Web-Design-Challenge/
 
 ## Background
